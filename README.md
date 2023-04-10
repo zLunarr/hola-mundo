@@ -1,3 +1,3 @@
 -[C](./hola-mundo.c)
--[Python](./hola-mundo.python)
+-[Python](./hola-mundo.py)
 
